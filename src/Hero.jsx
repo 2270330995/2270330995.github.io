@@ -25,7 +25,7 @@ export default function Hero() {
     <>
       <div className="hero">
         <div className="intro">
-          <h1>Bryson Turner</h1>
+          <h1>Partson</h1>
           <div className="hero-circle">
             <img height="128" width="128" src={headShot} alt="Bryson Turner"></img>
           </div>
